@@ -13,6 +13,7 @@ public class UnaClase {
     
     public void unMetodo(){
     System.out.println("Hola");
-    System.out.println("Hasta Luego");
+    System.out.println("Hasta Siempre");
+   
 }
 }
